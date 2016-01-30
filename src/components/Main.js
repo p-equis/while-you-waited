@@ -6,7 +6,9 @@ class AppComponent extends React.Component {
   render() {
     return (
       <div className="index">
-        <div className="notice">Please edit <code>src/components/Main.js</code> to get started!</div>
+        <p>While you waited...</p>
+
+        <p>One (1) universe continued to exist.</p>
       </div>
     );
   }
