@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "whileYouWaited",
+    "style": "css",
+    "postcss": false
+  }
+}
